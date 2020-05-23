@@ -1,0 +1,8 @@
+ul.List > li > span {
+    color: red;
+    cursor: pointer;
+}
+
+p.List {
+    color: green;
+}
